@@ -1,7 +1,5 @@
 *{
-  border: 1px solid rgba(0,0,0.3);
-}
-body.italic-headings-page h1{
+  body.italic-headings-page h1{
   font-style: italic;
 }
     h1{
