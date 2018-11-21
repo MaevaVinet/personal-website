@@ -1,0 +1,27 @@
+*{
+  border: 1px solid rgba(0,0,0.3);
+}
+body.italic-headings-page h1{
+  font-style: italic;
+}
+    h1{
+    display:block;
+    width:100%;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 90px;
+  }
+    h2{
+    display:block;
+    width:100%;
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    color: black;
+    position: relative;
+    top: 30px;
+
+  }
+
+  }
